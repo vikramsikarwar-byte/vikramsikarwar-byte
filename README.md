@@ -7,10 +7,11 @@
 
 ### Hi, I'm Vikram — AWS Cloud & DevOps Engineer
 
-I administer AWS infrastructure across 20+ production accounts day-to-day —
-provisioning, IAM, cost optimization, and security auditing. Alongside that,
-I build infrastructure-as-code, CI/CD pipelines, and containerized
-deployments.
+I help businesses deploy applications, automate CI/CD pipelines, build
+secure AWS infrastructure, and reduce cloud costs. My experience includes
+managing production AWS environments across 20+ accounts, Infrastructure
+as Code with Terraform, Docker, Kubernetes, GitHub Actions, Linux, and
+Nginx.
 
 **What I work with:** AWS (VPC, EC2, RDS, IAM) · Terraform · Docker & Docker
 Compose · Kubernetes · GitHub Actions · Linux · Nginx · Flask
