@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/vikramsikarwar-byte/vikramsikarwar-byte/main/profile-banner.svg" width="100%"/>
 
 <a href="https://github.com/vikramsikarwar-byte">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FF9900&center=true&vCenter=true&width=650&lines=AWS+multi-account+administration+%2F+cost+%26+security+audits;Terraform+%7C+Docker+%7C+Kubernetes+%7C+GitHub+Actions;I+build+it%2C+run+it%2C+and+explain+the+why" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FF9900&center=true&vCenter=true&width=800&lines=AWS+multi-account+administration+%2F+cost+%26+security+audits;Terraform+%7C+Docker+%7C+Kubernetes+%7C+GitHub+Actions;I+build+it%2C+run+it%2C+and+explain+the+why" alt="Typing SVG" />
 </a>
 
 ![Profile views](https://komarev.com/ghpvc/?username=vikramsikarwar-byte&color=FF9900&style=flat-square&label=PROFILE+VIEWS)
