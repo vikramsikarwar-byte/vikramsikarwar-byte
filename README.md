@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FF9900,100:232F3E&text=Vikram%20Sikarwar&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=AWS%20Cloud%20%26%20DevOps%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/vikramsikarwar-byte/vikramsikarwar-byte/main/profile-banner.svg" width="100%"/>
 
 <a href="https://github.com/vikramsikarwar-byte">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=FF9900&center=true&vCenter=true&width=650&lines=AWS+multi-account+administration+%2F+cost+%26+security+audits;Terraform+%7C+Docker+%7C+Kubernetes+%7C+GitHub+Actions;I+build+it%2C+run+it%2C+and+explain+the+why" alt="Typing SVG" />
