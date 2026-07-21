@@ -68,8 +68,8 @@ audits · Linux server deployment
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vikramsikarwar-byte&show_icons=true&theme=vue-dark&hide_border=true&bg_color=00000000" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramsikarwar-byte&layout=compact&theme=vue-dark&hide_border=true&bg_color=00000000" />
+<img height="165" src="https://github-readme-stats-weld-chi.vercel.app/api?username=vikramsikarwar-byte&show_icons=true&theme=vue-dark&hide_border=true&bg_color=00000000" />
+<img height="165" src="https://github-readme-stats-weld-chi.vercel.app/api/top-langs/?username=vikramsikarwar-byte&layout=compact&theme=vue-dark&hide_border=true&bg_color=00000000" />
 
 <img src="https://streak-stats.demolab.com/?user=vikramsikarwar-byte&theme=vue-dark&hide_border=true&background=00000000" />
 
